@@ -85,7 +85,8 @@ repositories = {
 packages = [
   "kernel-default",
   "-kernel-default-base",
-  "ca-certificates-suse"
+  "ca-certificates-suse",
+  "nfs-client"
 ]
 
 # ssh keys to inject into all the nodes
